@@ -261,7 +261,7 @@ export const me = {
     {
       name: "Resume",
       icon: FaNewspaper,
-      uri: "Anthony-Resume.pdf",
+      uri: "Anthony Rodriguez - Resume.pdf",
       hover: {
         bg: ["brand.500", "brand.700"],
         color: "white",
