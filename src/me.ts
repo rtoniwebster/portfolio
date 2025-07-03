@@ -279,7 +279,7 @@ export const me = {
     {
       name: "LinkedIn",
       icon: FaLinkedin,
-      uri: "https://www.linkedin.com/in/anthony-rodriguez/",
+      uri: "https://www.linkedin.com/in/arodriguez0819",
       hover: {
         bg: ["linkedin.500", "linkedin.700"],
         color: "white",
