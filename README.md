@@ -31,9 +31,9 @@ Here you'll find a curated selection of projects that demonstrate my approach to
 ## 📬 Let's Connect
 
 - 📍 Miami, FL  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- 🌐 [Personal Site](https://yourdomain.dev) *(if available)*  
-- 📫 Email: toniwebster4@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/arodriguez0819/)  
+- 🌐 [Personal Site](https://toniwebster.vercel.app/)  
+- 📫 Email: toniwebster45@gmail.com
 
 ---
 
